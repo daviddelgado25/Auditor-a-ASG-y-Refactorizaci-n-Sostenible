@@ -1,4 +1,6 @@
 # Fase 1 — Dimensión Ambiental (A)
+
 1.1 Medición Inicial
-Se emplearon dos herramientas para obtener la huella de carbono estimada por visita:
-HerramientaResultadoValoraciónWebsite Carbon Calculator~0,62 g CO₂/visitaPeor que el 68% de webs medidasLighthouse (Performance)Puntuación: 34/100Rojo — necesita mejoras urgentes
+Para la medición he utilizado Website Carbon Calculator y me ha dado este resultado 0.44g of CO2, necesita mejoras urgentes.
+
+1.2 Identificación de Bloatware
