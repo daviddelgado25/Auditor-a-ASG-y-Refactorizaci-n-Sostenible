@@ -77,8 +77,7 @@ El código HTML incluye `user-scalable=no` en el viewport, impidiendo que person
 | Texto informativo | Genérico, no especifica tipos ni finalidades | Mejorable |
 
 El banner de Uvesco **no presenta patrones oscuros graves**. La opción de rechazo es accesible directamente, cumpliendo las directrices de la AEPD (2022). Área de mejora: mayor especificidad en el texto sobre qué cookies se instalan y para qué.
-
-📸 **Evidencia 6:** La captura de WAVE (Evidencia 4\) ya recoge el banner de cookies visible en la parte inferior con los tres botones de igual tamaño.
+<img width="769" height="613" alt="Captura de pantalla 2026-05-27 113049" src="https://github.com/user-attachments/assets/883ac1df-2cf0-47e5-bce5-6fb07e09eeb7" />
 
 ### 3.2 Análisis del formulario y datos personales
 El formulario de contacto no solicita datos excesivos. Sin embargo, se detectan dos aspectos mejorables bajo el RGPD:
