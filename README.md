@@ -34,3 +34,4 @@ Se utilizaron WAVE Web Accessibility Evaluation Tool y Lighthouse (modo Accessib
 | ----- | ----- | ----- | ----- |
 | WAVE | AIM Score: **7,2 / 10** | 7 errores: 3 imágenes sin alt, 3 imágenes enlazadas sin alt, 1 formulario sin etiqueta | 61 alertas, 27 elementos estructurales |
 | Lighthouse — Accessibility | **80 / 100** (naranja) | Imágenes sin alt, enlaces sin nombre accesible, viewport con zoom bloqueado | 10 elementos para revisión manual |
+<img width="372" height="944" alt="Captura de pantalla 2026-05-27 131224" src="https://github.com/user-attachments/assets/2cc46c43-d8f2-4835-81da-663823f3d4d2" />
